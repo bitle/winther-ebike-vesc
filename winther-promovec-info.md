@@ -15,6 +15,7 @@ Green 5 pin - PAS
 
 Black 9-pin motor connector
 
+![Promovec controller image](Promovec_Controller_Carrier_4_36V_25_1713171823.jpg)
 ## Battery
 Promovec battery 36V 10S
 
