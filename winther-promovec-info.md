@@ -21,3 +21,6 @@ Promovec battery 36V 10S
 
 ## Motor
 3 phase with built-in haul sensors, including speed. Not sure about temperature yet.
+
+## PAS
+At this point I'm not sure whether it is just cadence sensor or it has some torque output. Typical cadence sensors use 3 pins, this sensor uses 5 pins. I don't know whether all 5 pins are used.  
