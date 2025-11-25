@@ -17,10 +17,10 @@ Black 9-pin motor connector
 
 ![Promovec controller image](Promovec_Controller_Carrier_4_36V_25_1713171823.jpg)
 ## Battery
-Promovec battery 36V 10S
+Promovec battery 36V 10S4P 8.8Ah
 
 ## Motor
-3 phase with built-in haul sensors, including speed. Not sure about temperature yet.
+3 phase with built-in haul sensors, including speed. Not sure about temperature yet. It has a clutch to allow spinning one way.
 
 ## PAS
 At this point I'm not sure whether it is just cadence sensor or it has some torque output. Typical cadence sensors use 3 pins, this sensor uses 5 pins. I don't know whether all 5 pins are used.  
